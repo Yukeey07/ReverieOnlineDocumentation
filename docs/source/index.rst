@@ -13,6 +13,7 @@ Contents:
    introduction
    gameplay
    multiplayer
+   roadmap
 
 ---
 
