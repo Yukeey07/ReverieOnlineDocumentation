@@ -16,8 +16,9 @@ Contents:
 
 ---
 
-Indices and tables
-==================
+License
+-------
 
-* :ref:`genindex`
-* :ref:`modindex`
+**Reverie Online** is licensed under [insert your license type here]. Please see the full details in the :doc:`license` section.
+
+---
