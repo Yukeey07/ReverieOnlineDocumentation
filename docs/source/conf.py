@@ -4,7 +4,7 @@
 
 project = 'Reverie Online'
 copyright = '2024, Daniel Schwedt'
-author = 'Graziella'
+author = 'Daniel Schwedt'
 
 release = '0.1'
 version = '0.1.0'
