@@ -3,7 +3,7 @@ Reverie Online Roadmap
 
 This roadmap outlines the development goals and key milestones for **Reverie Online**. The roadmap is divided into phases, each focusing on specific aspects of the game’s development, from core gameplay mechanics to server optimization.
 
-Phase 1: Core Systems (Complete)
+Phase 1: Core Systems
 --------------------------------
 - [x] Multiplayer connectivity through Nakama.
 - [ ] Basic combat system with melee and ranged attacks.
