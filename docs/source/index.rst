@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the Reverie Online Documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Reverie Online is an upcoming pixel art MMOARPG (Massively Multiplayer Online Action Role-Playing Game). It combines the nostalgic charm of classic pixel art games with a modern, immersive multiplayer experience. Players enter a vast, interconnected world where they can embark on adventures, engage in combat, gather resources, craft items, and build their characters by leveling up skills and acquiring new abilities.
 
 .. note::
 
@@ -18,5 +12,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Key Features
+   Story and World Lore
+   Multiplayer Experience
+   Game Mechanics
+   Technology
