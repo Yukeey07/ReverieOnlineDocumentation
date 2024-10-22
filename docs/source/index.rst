@@ -19,6 +19,6 @@ Contents:
 License
 -------
 
-**Reverie Online** is licensed under [insert your license type here]. Please see the full details in the :doc:`license` section.
+**Reverie Online** is licensed under CC BY-NC-SA 4.0. Please see the full details in the :doc:`license` section.
 
 ---
