@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'Reverie Online'
+copyright = '2024, Daniel Schwedt'
 author = 'Graziella'
 
 release = '0.1'
