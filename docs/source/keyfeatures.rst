@@ -20,14 +20,3 @@ Economy and Trading: An in-game economy allows players to trade items, weapons, 
 .. note::
 
    This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   Key Features
-   Story and World Lore
-   Multiplayer Experience
-   Game Mechanics
-   Technology
