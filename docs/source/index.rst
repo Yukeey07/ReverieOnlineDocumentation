@@ -11,14 +11,8 @@ Contents:
    :caption: Table of Contents
 
    introduction
-   getting_started
    gameplay
    multiplayer
-   world_maps
-   development
-   api_reference
-   troubleshooting
-   faq
 
 ---
 
