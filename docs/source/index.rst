@@ -12,7 +12,7 @@ Contents
 
 .. toctree::
 
-   Key Features
+   keyfeatures
    Story and World Lore
    Multiplayer Experience
    Game Mechanics
