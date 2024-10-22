@@ -1,19 +1,29 @@
-Welcome to the Reverie Online Documentation!
-===================================
+Reverie Online Documentation
+=============================
 
-Reverie Online is an upcoming pixel art MMOARPG (Massively Multiplayer Online Action Role-Playing Game). It combines the nostalgic charm of classic pixel art games with a modern, immersive multiplayer experience. Players enter a vast, interconnected world where they can embark on adventures, engage in combat, gather resources, craft items, and build their characters by leveling up skills and acquiring new abilities.
+Welcome to the official documentation of **Reverie Online**, a pixel art MMOARPG. In this documentation, you will find guides, references, and explanations for everything related to the game, including its gameplay, technical setup, and development process.
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Contents:
+---------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
 
-   keyfeatures
-   Story and World Lore
-   Multiplayer Experience
-   Game Mechanics
-   Technology
+   introduction
+   getting_started
+   gameplay
+   multiplayer
+   world_maps
+   development
+   api_reference
+   troubleshooting
+   faq
+
+---
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
